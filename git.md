@@ -75,7 +75,7 @@ git push -u origin main
 git pull
 ```
 
-```bash
+~~~
 # 15) Example workflow
 #    1. git init or git clone
 #    2. Make changes
